@@ -50,9 +50,9 @@ tyle | you can add external for tab | null | View.propTypes.style
 onPress | call-back function for each item | () => {} | func
 
 ## Notic:
-  * following idea of stateless component, `react-native-segment-tab` is designed without internal state, so you have to use `selected` and `onPress` props to response your interaction.
+  * Following idea of stateless component, `react-native-segment-tab` is designed without internal state, so you have to use `selected` and `onPress` props to response your interaction.
   * You'd better use the component with a wrapper view because segment-tab is a pure component.
-  * if you have any question, just create [issues](https://github.com/Bob1993/react-native-segment-tab/issues) or send email to me: <poberwong@gmail.com>.
+  * If you have any question, just create [issues](https://github.com/Bob1993/react-native-segment-tab/issues) or send email to me: <poberwong@gmail.com>.
   
 ## License  
 *MIT*  
