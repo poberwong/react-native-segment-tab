@@ -1,6 +1,6 @@
 {
   "name": "react-native-segment-tab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "segment-tab looks like ios component",
   "main": "lib/index.js",
   "scripts": {
