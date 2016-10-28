@@ -8,7 +8,7 @@ segment-tab looks like ios component
 
 ## Usage
 ```
-state={
+  state = {
     selected: 0
   }
   render() {
