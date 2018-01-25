@@ -41,6 +41,7 @@ horizontalHeight | height of tab when tab is horizontal layout| `40` | number
 verticalWidth | width of tab when tab is vertical layout| `100` | number
 verticallHeight | height of tab when tab is vertical layout| `120` | number
 borderRadius | borderRadius of whole tab | 5 | number
+borderColor  | borderColor of whole tab | gray | string
 activeColor | color of an active tab item | `red`| string
 inActiveColor | color of an inActive tab item, it will be color of its parent's backgroundColor if is null | null | string
 textActiveColor | text of color in active tab | inActiveColor | string
