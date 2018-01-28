@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bob1993/react-native-segment-tab/issues"
   },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
   "homepage": "https://github.com/Bob1993/react-native-segment-tab#readme"
 }
